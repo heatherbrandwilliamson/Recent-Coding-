@@ -1,0 +1,6 @@
+admin, adm1n
+cat, meaow
+manager, green
+assistant, red
+Coatman, grey
+bookeeper, books
