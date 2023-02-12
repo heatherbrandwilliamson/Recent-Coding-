@@ -1,7 +1,17 @@
 # Hyperion_Bootcamp
 
-Here are the capstone projects completed as part of the bootcamp
+Hello - I am Heather.
 
-Financial Calculator 
+This repo contains my code that I wrote as part of the Hyperion Dev Software Engineering bootcamp. 
 
-Task Manager 
+The course covers: 
+
+Python 
+
+SQL 
+
+HTML 
+
+NLP
+
+Database Manipulating 
