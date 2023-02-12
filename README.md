@@ -1,6 +1,6 @@
 # Hyperion_Bootcamp
 
-Hello - I am Heather.
+Hello
 
 This repo contains my code that I wrote as part of the Hyperion Dev Software Engineering bootcamp. 
 
