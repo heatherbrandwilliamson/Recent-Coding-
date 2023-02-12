@@ -1,0 +1,9 @@
+start
+
+input request user enters four numbers
+store user input as variable
+convert number from string to list of integers
+sort list  
+print result 
+
+End
