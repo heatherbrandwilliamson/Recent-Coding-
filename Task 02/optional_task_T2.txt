@@ -1,0 +1,23 @@
+Start
+
+Store variable as n 
+
+Create function fibonacci 
+	store variable a as 0
+	store variable b as 1 
+
+	check input, if less than zero return error
+
+	check input, if 0 return 0
+
+	if n is 1 
+	return b 
+
+	for range 
+	c = a + b 
+	a = b 
+	b = c 
+
+	return b 
+
+End
